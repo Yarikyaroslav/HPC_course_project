@@ -1,6 +1,6 @@
 # HPC_course_project
 
-- **BH_anim.ipynb**: Jupyter Notebook for simulating and visualizing the Barnes-Hut algorithm.
+- **BH_anim.ipynb**: Jupyter Notebook for visualizing the Barnes-Hut simulation results.
 - **BHsimulation.gif**: GIF animation of the Barnes-Hut simulation.
 - **InitialConditions.ipynb**: Jupyter Notebook for generating initial conditions.
 - **PlotResBench.ipynb**: Jupyter Notebook for plotting the results of benchmarks.
